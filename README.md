@@ -58,8 +58,7 @@ project_1_stock_analysis/
 ├── data/
 ├── src/
 ├── dashboard/
-├── outputs/
-├── reports/
+├── report
 ├── main.py
 ```
 
