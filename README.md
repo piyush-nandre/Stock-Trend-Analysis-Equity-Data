@@ -104,16 +104,6 @@ python dashboard/app.py
 
 ---
 
-## 📄 Report
-
-Detailed report available in:
-
-```
-/reports/report.docx
-```
-
----
-
 ## 🔮 Future Improvements
 
 * LSTM-based forecasting
